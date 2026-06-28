@@ -11,7 +11,7 @@ Currently undergoing Advanced Embedded Systems training at Emertxe Information T
 ## 👩‍💻 About Me
 
 - 🎓 B.E. in Electronics and Communication Engineering
-- 🌱 Currently learning **Advanced Embedded Systems, Embedded C, Linux Internals, and Microcontroller Programming**
+- 🌱 Currently learning **Advanced Embedded Systems, C Programming, Linux Internals, and Microcontroller Programming**
 - 💡 Passionate about **Embedded Systems, Firmware Development, and System Programming**
 - 💻 Strong foundation in **C, C++, Data Structures, and Embedded Programming**
 - 🚀 Looking for opportunities as an **Embedded Systems Engineer** or **Firmware Engineer**
