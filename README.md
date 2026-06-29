@@ -80,6 +80,7 @@ Final-year project focused on identifying malicious network activities using tru
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamithra-sr)
 
 📧 **Email:** `sangamithra2712@gmail.com`
+🌐 Portfolio: https://sangamithra-r.github.io/portfolio/
 
 ---
 
