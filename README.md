@@ -26,8 +26,8 @@ Currently undergoing Advanced Embedded Systems training at Emertxe Information T
 </p>
 
 ### Embedded Systems
-- Embedded C
-- Microcontroller Programming
+- C Programming
+- Microcontrollers
 - GPIO
 - Timers & Counters
 - Interrupts
@@ -68,9 +68,8 @@ Final-year project focused on identifying malicious network activities using tru
 
 ## 🌱 Currently Learning
 
-- Advanced Embedded C
-- Embedded Linux
-- Linux System Programming
+- C Programming
+- Linux 
 - Firmware Development
 
 ---
